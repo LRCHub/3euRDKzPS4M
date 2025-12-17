@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "到底發生過什麼事",
+  "base_artist": "Dear Jane",
+  "createdAt": "2025-12-17T20:17:43.288752Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "到底發生過什麼事",
+      "artist": "Dear Jane",
+      "has_synced": true,
+      "path": "select/01_到底發生過什麼事_Dear_Jane.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "到底發生過什麼事 (feat. 八三夭)",
+      "artist": "Dear Jane feat. 831",
+      "has_synced": true,
+      "path": "select/02_到底發生過什麼事_(feat._八三夭)_Dear_Jane_feat._831.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "到底發生過什麼事 (feat. 八三夭)",
+      "artist": "Dear Jane",
+      "has_synced": true,
+      "path": "select/03_到底發生過什麼事_(feat._八三夭)_Dear_Jane.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "到底發生過什麼事 - What Happened",
+      "artist": "Dear Jane",
+      "has_synced": true,
+      "path": "select/04_到底發生過什麼事_-_What_Happened_Dear_Jane.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "到底發生過什麼事 - What Happened (feat. 831)",
+      "artist": "Dear Jane",
+      "has_synced": true,
+      "path": "select/05_到底發生過什麼事_-_What_Happened_(feat._831)_Dear_Jane.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "到底發生過什麼事",
+      "artist": "Dear Jane",
+      "has_synced": true,
+      "path": "select/06_到底發生過什麼事_Dear_Jane.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "到底發生過什麼事 (feat. 八三夭)",
+      "artist": "Dear Jane, 831",
+      "has_synced": true,
+      "path": "select/07_到底發生過什麼事_(feat._八三夭)_Dear_Jane,_831.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "到底發生過什麼事 - What Happened",
+      "artist": "Dear Jane",
+      "has_synced": true,
+      "path": "select/08_到底發生過什麼事_-_What_Happened_Dear_Jane.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "到底發生過什麼事",
+      "artist": "Dear Jane",
+      "has_synced": false,
+      "path": "select/pl_01_到底發生過什麼事_Dear_Jane.txt"
+    }
+  ]
+}
